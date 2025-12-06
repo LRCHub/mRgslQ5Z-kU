@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ソワレ",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-06T11:39:56.072844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ソワレ",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_ソワレ_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ソワレ",
+      "artist": "Suisei Hoshimachi",
+      "has_synced": true,
+      "path": "select/02_ソワレ_Suisei_Hoshimachi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ソワレ",
+      "artist": "Rain Drops",
+      "has_synced": true,
+      "path": "select/03_ソワレ_Rain_Drops.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ソワレ",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/04_ソワレ_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ソワレ （Instrumental）",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/05_ソワレ_(Instrumental)_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ソワレ",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/06_ソワレ_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ソワレ (Instrumental)",
+      "artist": "Rain Drops",
+      "has_synced": false,
+      "path": "select/07_ソワレ_(Instrumental)_Rain_Drops.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ソワレ / soirée",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/08_ソワレ___soirée_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ソワレ",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/09_ソワレ_星街すいせい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ソワレ",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_ソワレ_星街すいせい.txt"
+    }
+  ]
+}
